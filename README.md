@@ -10,6 +10,6 @@ Install latest release:
 >pip install -U keras-tuner
 
 Install from source:
->git clone https://github.com/keras-team/keras-tuner.git
->cd keras-tuner
->pip install .
+>git clone https://github.com/keras-team/keras-tuner.git <br>
+>cd keras-tuner<br>
+>pip install
