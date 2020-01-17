@@ -3,7 +3,7 @@
 
 Requirements:
 
->Python 3.6
+>Python 3.6<br>
 >TensorFlow 2.0
 
 Install latest release:
